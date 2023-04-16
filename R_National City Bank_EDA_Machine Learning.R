@@ -1,6 +1,13 @@
 #' Author: Mokete Mashala
 #' Date: March-22-2023
-#' Purpose: National City Bank
+#' Purpose: Based on National City Bank the objective The research and modeling team 
+#' at National Bank City has been tasked with creating a customer propensity model for a new product, 
+#' specifically a line of credit against a household’s used car. The objective is to develop a model 
+#' that will be able to identify the top 100 prospective customer lists to contact. 
+#' These would be the top customers with the highest probability of accepting the offer. 
+
+#' Steps taken include: Accessing the data, Exploring the data, Prepare data (Data preprocessing), Analyze Data
+#' Develop Machine Learning algorithms, choose the best and then make recommendations
 #' 
 #'References: 
 # https://github.com/togiberlin/data_mining_cup/blob/master/dmc1/results/predictions_Unic0rn.R
